@@ -1,0 +1,173 @@
+,case_number,year,country,area,location,sex_,age,species_,siglo,injury,date,mes,fatal_(y/n)_limpio,sex,country_
+0,2018.06.25,2018.0,usa,California,"Oceanside, San Diego County",F,57,White shark,siglo XXI,"No injury to occupant, outrigger canoe and paddle damaged",25-Jun-2018,Jun,N,F,usa
+1,2018.06.03.a,2018.0,brazil,Pernambuco,"Piedade Beach, Recife",M,18,Tiger shark,siglo XXI,FATAL,03-Jun-2018,Jun,Y,M,brazil
+2,2018.05.26.b,2018.0,usa,Florida,"Cocoa Beach, Brevard  County",M,15,"Bull shark, 6'",siglo XXI,Lower left leg bitten,26-May-2018,May,N,M,usa
+3,2018.05.24,2018.0,australia,Queensland,Cairns Aquarium,M,32,Grey reef shark,siglo XXI,Minor bite to hand by captive shark. PROVOKED INCIDENT,24-May-2018,May,N,M,australia
+4,2018.05.13.a,2018.0,england,Cornwall,Off Land's End,M,21,Invalid incident,siglo XXI,Injured by teeth of a dead porbeagle shark he was tossing overboard.,13-May-2018,May,N,M,england
+5,2018.04.28.b,2018.0,costa rica,Cocos Island,Manuelita,M,30,Tiger shark,siglo XXI,"No injury, shark bit scuba gear",28-Apr-2018,Apr,N,M,costa rica
+6,2018.04.25.a,2018.0,australia,Western Australia,"Surfers Point, Prevelly",M,60,3 m shark,siglo XXI,"No injury, knocked off board by shark",25-Apr-2018,Apr,N,M,australia
+7,2018.04.23,2018.0,maldives,Alifu Alifu Atoll,Madoogali,M,32,Tiger shark,siglo XXI,5-inch cut to hand,23-Apr-2018,Apr,N,M,maldives
+8,2018.04.22,2018.0,south africa,Western Cape Province,"Robberg Beach, Plettenberg Bay",M,33,"White shark, 2.5 m",siglo XXI,"No injury, shark bit hole in ski",22-Apr-2018,Apr,N,M,south africa
+9,2018.04.03,2018.0,south africa,Eastern Cape Province,St. Francis Bay,M,19,White shark,siglo XXI,Lacerations to left knee & lower leg,03-Apr-2018,Apr,N,M,south africa
+10,2018.03.31,2018.0,usa,Hawaii,Kukio Beach,M,25,"Tiger shark, 12'",siglo XXI,Injuries to right leg & hand,31-Mar-2018,Mar,N,M,usa
+11,2018.03.14,2018.0,australia,Western Australia,Waterman's Bay,M,10,Wobbegong shark,siglo XXI,Minor injuries to legs,14-Mar-2018,Mar,N,M,australia
+12,2018.03.09.b,2018.0,australia,Victoria,Lorne,M,69,3.5 m shark,siglo XXI,"No injury, said to have been charged by sharks several times",9-Mar-2018,Mar,N,M,australia
+13,2018.03.09.a,2018.0,australia,Victoria,Winkipop,M,18,1.8 m shark,siglo XXI,"Minor injury, ankle grazed",9-Mar-2018,Mar,N,M,australia
+14,2018.02.23,2018.0,australia,New South Wales,"Little Congwong Beach, La Perouse ",F,55,"Juvenile white shark,  2.7 to 3.2 m",siglo XXI,Laceratons to right leg & foot,23-Feb-2018,Feb,N,F,australia
+15,2018.02.15,2018.0,australia,New South Wales,"Surf Beach, Kiama",M,35,"Bull shark, 2 m",siglo XXI,Puncture wounds to leff foot & lower leg,15-Feb-2018,Feb,N,M,australia
+16,2018.01.12,2018.0,brazil,Fernando de Noronha,Conceicao Beach,M,20,small shark,siglo XXI,Minor injury to left forearm,12-Jan-2018,Jan,N,M,brazil
+17,2017.12.31,2017.0,usa,Hawaii,"Hultin's Beach, Oahu",F,54,Tiger shark,siglo XXI,Severe lacerations to left thigh & knee,31-Dec-2017,Dec,N,F,usa
+18,2017.11.24,2017.0,usa,California,"Stillwater Cove, Monterey County",M,25,"White shark, 4.6 m",siglo XXI,Right leg bitten,24-Nov-2017,Nov,N,M,usa
+19,2017.11.13,2017.0,australia,New South Wales,Avoca Beach,M,25,2 m shark,siglo XXI,Puncture wounds to left shoulder,13-Nov-2017,Nov,N,M,australia
+20,2017.11.04,2017.0,cuba,Holquin Province,Guardalavaca Beach,M,22,Tiger shark,siglo XXI,FATAL,04-Nov-2017,Nov,Y,M,cuba
+21,2017.10.28,2017.0,australia,New South Wales,Birubi Point,M,31,"Wobbegong shark, 1 m",siglo XXI,Minor injury to foot,28-Oct-2017,Oct,N,M,australia
+22,2017.10.22,2017.0,australia,South Australia,Normanville,F,15,"White shark, 4.5 m",siglo XXI,Minor injuries,22-Oct-2017,Oct,N,F,australia
+23,2017.10.09,2017.0,usa,Hawaii,"Davidsons Beach, Kekaha, Kauai",M,54,"Tiger shark, 8 to 10 feet",siglo XXI,Lacerations to left hand,09-Oct-2017,Oct,N,M,usa
+24,2017.10.05,2017.0,usa,Hawaii,"Kamaole Beach Park, Maui ",F,40,8' shark,siglo XXI,Abrasions,05-Oct-2017,Oct,N,F,usa
+25,2017.09.24.b,2017.0,usa,New York,Rockaway,M,33,Questionable,siglo XXI,"Lacerations to right ankle, foot & toe",24-Sep-2017,Sep,Unknown,M,usa
+26,2017.09.13,2017.0,usa,Florida,"Ponce Inlet, Volusia County",M,18,5' to 6' shark,siglo XXI,Lacerations to left foot,13-Sep-2017,Sep,N,M,usa
+27,2017.09.10.a,2017.0,australia,New South Wales,Iluka Beach,M,35,"White shark, 3 to 3.5m ",siglo XXI,Minor lacerations to right hip,10-Sep-2017,Sep,N,M,australia
+28,2017.08.29,2017.0,australia,Victoria,Cathedral Rock,M,37,"White shark, 3 m",siglo XXI,"No injury, board bitten",29-Aug-2017,Aug,N,M,australia
+29,2017.08.26.b,2017.0,spain,Castellón,Grao de Moncofa,F,11,Shark involvement questionable,siglo XXI,Lacerations to left foot,26-Aug-2017,Aug,Unknown,F,spain
+30,2017.08.23,2017.0,usa,Massachusetts,"Marconi Beach, Wellfleet, Barnstable County",M,69,"White shark, 5' to 7'",siglo XXI,Not injured by shark but board bitten,23-Aug-2017,Aug,N,M,usa
+31,2017.08.10,2017.0,usa,South Carolina,"Sea Pines Resort, Hilton Head Island, Beaufort County",M,13,Possibly a juvenile blacktip shark,siglo XXI,Minor cuts to sole & toes of left foot,10-Aug-2017,Aug,N,M,usa
+32,2017.08.03,2017.0,usa,Massachusetts,"Menauhant Beach, Falmouth,
+Barnstable County",M,34,4' shark,siglo XXI,Foot bitten by landed shark PROVOKED INCIDENT,03-Aug-2017,Aug,N,M,usa
+33,2017.07.29.c,2017.0,usa,South Carolina,"Hilton Head Island, Beaufort County",M,10,A small shark,siglo XXI,Abrasions and cuts to sole of foot,29-Jul-2017,Jul,Unknown,M,usa
+34,2017.07.20.b,2017.0,usa,California,"Stearns Wharf, Santa Barbara",M,40,"White shark, 11' to 13'",siglo XXI,"No injury, kayak bitten",20-Jul-2017,Jul,N,M,usa
+35,2017.07.20.a,2017.0,usa,California,"Seal Rock, Goleta Beach, Santa Barbara",M,50,"White shark, 8' to 10'",siglo XXI,"No injury, shark bit paddleboard",20-Jul-2017,Jul,N,M,usa
+36,2017.07.09,2017.0,usa,Florida,"Haulover Beach, Miami-Dade County",M,46,"Bull shark, 4' to 5'",siglo XXI,Lower legs bitten,09-Jul-2017,Jul,N,M,usa
+37,2017.07.07,2017.0,south africa,Eastern Cape Province,"Nahoon Reef, East London",F,13,"White shark, 2.5 m",siglo XXI,"No injury, shark bit surfboard",07-Jul-2017,Jul,N,F,south africa
+38,2017.06.11,2017.0,australia,Western Australia,"Point Casuarina, Bunbury",M,48,"White shark, 4 m",siglo XXI,"No injury, board bitten",11-Jun-2017,Jun,N,M,australia
+39,2017.06.02,2017.0,bahamas,New Providence ,Athol Island,F,32,Tiger shark,siglo XXI,Right forearm severed ,02-Jun-2017,Jun,N,F,bahamas
+40,2017.05.03,2017.0,usa,California,"Sunset Beach, Orange County",F,18,Shark involvement highly doubtful,siglo XXI,"Laceration to thigh, likely caused by surfboard fin",03-May-2017,May,Unknown,F,usa
+41,2017.04.17.a,2017.0,australia,Western Australia,Kelpies near Wylie Bay,F,17,White shark,siglo XXI,FATAL,17-Apr-2017,Apr,Y,F,australia
+42,2017.04.14,2017.0,usa,Hawaii,"Kekaha Beach, Kauai",M,28,"Tiger shark, 12'",siglo XXI,Lower right leg severely injured,14-Apr-2017,Apr,N,M,usa
+43,2017.04.02.a,2017.0,usa,Florida,"Destin, Okaloosa County",F,17,"Bull shark, 5' to 7'",siglo XXI,Lacerations to thighs,02-Apr-2017,Apr,N,F,usa
+44,2017.01.21,2017.0,australia,Queensland,"Boot Reef, Torres Strait",M,55,"Bull shark, 4 m",siglo XXI,"Multiple injuries to arm, wrist and torso",21-Jan-2017,Jan,N,M,australia
+45,2017.01.09,2017.0,indonesia,Bali,Balian Beach,M,48,"Bull shark, 1 m",siglo XXI,Injury to right wrist & forearm,09-Jan-2017,Jan,N,M,indonesia
+46,2017.01.03,2017.0,australia,New South Wales,Merimbula,M,20,Shark involvement not confirmed,siglo XXI,Minor injuries to foot & toes,03-Jan-2017,Jan,Unknown,M,australia
+47,2016.12.19,2016.0,south africa,Western Cape Province,"Keurbooms Lagoon, Plettenberg Bay",M,55,"White shark, 4 m",siglo XXI,"No injury, but ski severely damaged",19-Dec-2016,Dec,N,M,south africa
+48,2016.12.11.a,2016.0,usa,Florida,"New Smyrna Beach, Volusia County",M,19,Shark involvement not confirmed,siglo XXI,Cuts to right ankle & foot,11-Dec-2016,Dec,Unknown,M,usa
+49,2016.12.06,2016.0,australia,New South Wales,Merimbula,M,20,"Wobbegong shark, 2m",siglo XXI,Lacerations to both hands while attempting to land a hooked shark PROVOKED INCIDENT,06-Dec-2016,Dec,N,M,australia
+50,2016.12.01,2016.0,australia,New South Wales,Booti Booti National Park,M,65,White shark,siglo XXI,Injuries to foot & arm,01-Dec-2016,Dec,N,M,australia
+51,2016.11.28,2016.0,australia,Victoria,Queenscliff,M,73,"Broadnose sevengill shark, 1.5 m",siglo XXI,Laceration to right hand by hooked & gaffed shark. PROVOKED INCIDENT,28-Nov-2016,Nov,N,M,australia
+52,2016.11.14,2016.0,usa,Hawaii,"Kamaole Beach Park I, Maui",F,58,Tiger shark,siglo XXI,Injuries to right calf and thigh,14-Nov-2016,Nov,N,F,usa
+53,2016.10.21,2016.0,usa,Hawaii,"Hooipa Beach Park, Maui",M,36, 6' to 8' shark,siglo XXI,Left arm and leg injured,21-Oct-2016,Oct,N,M,usa
+54,2016.09.26,2016.0,australia,New South Wales,"Lighthouse Beach, Ballina",M,17,"White shark, 3.5 m",siglo XXI,4 deep lacerations to thigh,26-Sep-2016,Sep,N,M,australia
+55,2016.09.11,2016.0,usa,Florida,"Ponte Vedra, St. Johns County",M,60s,3' to 4' shark,siglo XXI,Minor injury to arm,11-Sep-2016,Sep,N,M,usa
+56,2016.09.07,2016.0,usa,Hawaii,"Makaha, Oahu",F,51,"Tiger shark, 10'",siglo XXI,Severe lacerations to shoulder & forearm,07-Sep-2016,Sep,N,F,usa
+57,2016.08.29.b,2016.0,usa,Florida,"New Smyrna Beach, Volusia County",M,25,"Bull shark, 6'",siglo XXI,Lacerations to right foot,29-Aug-2016,Aug,N,M,usa
+58,2016.08.06,2016.0,usa,Hawaii,Maui,M,21,"Tiger shark, 10' ",siglo XXI,"No inury, shark & board collided",06-Aug-2016,Aug,N,M,usa
+59,2016.07.29,2016.0,spain,Alicante Province,Arenales del Sol,M,40,Blue shark,siglo XXI,Lacerations to right hand,29-Jul-2016,Jul,N,M,spain
+60,2016.07.20,2016.0,australia,Queensland,"20 k off The Spit, off the Gold Coast",M,31,"reef shark, 1m",siglo XXI,Laceration to left calf from hooked shark PROVOKED INCIDENT,20-Jul-2016,Jul,N,M,australia
+61,2016.07.15.b,2016.0,usa,California,"Surfside, Orange County",M,61,"White shark, 10' to 12'",siglo XXI,"No injury, board damaged",15-Jul-2016,Jul,N,M,usa
+62,2016.07.07.b,2016.0,usa,Massachusetts,"Off Gloucester, Essec County",M,59,dogfish shark,siglo XXI,Fin of hooked shark injured fisherman's forearm. . PROVOKED INCIDENT,07-Jul-2016,Jul,N,M,usa
+63,2016.07.04,2016.0,australia,Queensland,Palm Cove ,M,34,Tawny nurse shark,siglo XXI,Right thigh injured by hooked pregnant female shark PROVOKED INCIDENT,04-Jul-2016,Jul,N,M,australia
+64,2016.06.21.b,2016.0,usa,South Carolina,"North Myrtle Beach, Horry County",M,42,3' to 5' shark,siglo XXI,Lacerations and punctures to foot,21-Jun-2016,Jun,N,M,usa
+65,2016.06.14,2016.0,usa,Texas,"Pirates Beach, Galveston",F,6,3' to 4' shark,siglo XXI,Injury to lower leg,14-Jun-2016,Jun,N,F,usa
+66,2016.06.11,2016.0,usa,North Carolina,"Atlantic Beach, Emerald Isle, Carteret County",M,19,3' shark,siglo XXI,Laceration to wrist,11-Jun-2016,Jun,N,M,usa
+67,2016.06.07,2016.0,usa,South Carolina,"Folly Beach, Charleston County",M,27,Said to involve an 8' shark but more likely damage caused by debris,siglo XXI,"No injury, board damaged",07-Jun-2016,Jun,Unknown,M,usa
+68,2016.06.05.a,2016.0,australia,Western Australia,Mindarie,F,60,3+ m shark,siglo XXI,FATAL,05-Jun-2016,Jun,Y,F,australia
+69,2016.06.04,2016.0,egypt,Suez,Ain Sokhna,M,23,Mako shark,siglo XXI,"Leg severely bitten, surgically amputated",04-Jun-2016,Jun,N,M,egypt
+70,2016.05.31,2016.0,australia,Western Australia,"Falcon Beach, Mandurah",M,29,White shark,siglo XXI,FATAL,31-May-2016,May,Y,M,australia
+71,2016.05.29.a,2016.0,usa,Florida,"Neptune, Duval County",M,13,5' shark,siglo XXI,Injury to posterior right leg,29-May-2016,May,N,M,usa
+72,2016.05.21.b,2016.0,usa,Florida,"St. Petersburg, Pinellas County",F,22,"Bull shark, 4' to 5'",siglo XXI,Lacerations and puncture wounds to foot and ankle,21-May-2016,May,N,F,usa
+73,2016.05.18,2016.0,usa,Florida,"Ponte Vedra, St. Johns County",M,48,"Blacktip shark, 4'",siglo XXI,Ankle bitten,18-May-2016,May,N,M,usa
+74,2016.05.15,2016.0,usa,Florida,"Boca Raton, Palm Beach County",F,23,"Nurse shark, 2'",siglo XXI,Arm grabbed PROVOKED INCIDENT,15-May-2016,May,N,F,usa
+75,2016.05.02,2016.0,new zealand,North Island,Cormandel,M,39,"Mako shark, 1.5 m [5'] ",siglo XXI,Foot bitten by landed shark PROVOKED INCIDENT,02-May-2016,May,N,M,new zealand
+76,2016.04.25,2016.0,indonesia,Bali,Balian,M,24,"Bull shark, 6'",siglo XXI,Elbow bitten,25-Apr-2016,Apr,N,M,indonesia
+77,2016.04.19,2016.0,australia,New South Wales,"First Sun Beach, Byron Bay",M,12,Wobbegong shark,siglo XXI,Minor puncture wound to foot,19-Apr-2016,Apr,N,M,australia
+78,2016.04.18.b,2016.0,french polynesia,Tuamotos,Makemo Atoll,M,22,"Grey reef shark, 2 m",siglo XXI,Laceration to knee by speared shark PROVOKED INCIDENT,18-Apr-2016,Apr,Unknown,M,french polynesia
+79,2016.04.18.a,2016.0,french polynesia,Tuamotos,Makemo Atoll,M,26,"Grey reef shark, 2 m",siglo XXI,"Severe lacerations to right forearm, hand and calf from speared shark PROVOKED INCIDENT",18-Apr-2016,Apr,N,M,french polynesia
+80,2016.04.09,2016.0,new caledonia,Grand Terre,Poe Beach,F,69,"Tiger shark, 2.5 m",siglo XXI,FATAL,09-Apr-2016,Apr,Y,F,new caledonia
+81,2016.01.23,2016.0,usa,Hawaii,"Wailea Beach, Maui",M,48,"Tiger shark, 14'",siglo XXI,No injury,23-Jan-2016,Jan,N,M,usa
+82,2016.01.05,2016.0,australia,Queensland,Heron Island,M,11,Blacktip shark,siglo XXI,Laceration to right calf,05-Jan-2016,Jan,N,M,australia
+83,2016.01.02,2016.0,australia,Queensland,Miall Island,M,31,3 m shark,siglo XXI,Lacerations to arms & leg,02-Jan-2016,Jan,N,M,australia
+84,2015.12.22,2015.0,usa,Hawaii,La'aloa Beach Park,M,71,9' shark,siglo XXI,"No injury, shark bit board",22-Dec-2015,Dec,N,M,usa
+85,2015.12.21.b,2015.0,australia,New South Wales,Bondi Beach,M,43,"Bronze whaler shark, 6'",siglo XXI,"No injury, shark leapt on surfboard",21-Dec-2015,Dec,N,M,australia
+86,2015.11.20,2015.0,ecuador,Galapagos Islands,"Punta Vicente Roca, Isabella Island",M,55,Galapagos shark,siglo XXI,Lacerations to left calf,20-Nov-2015,Nov,N,M,ecuador
+87,2015.11.10,2015.0,australia,New South Wales,East Ballina,M,20,"Bull shark, 2.8 to 3.1 m",siglo XXI,Injury to left thigh,10-Nov-2015,Nov,N,M,australia
+88,2015.12.23,2015.0,usa,Florida,"Paradise Beach, Melbourne, Brevard County",F,9,Shark involvement not confirmed,siglo XXI,Lower left leg injured,07-Nov-2015,Nov,Unknown,F,usa
+89,2015.11.01.b,2015.0,usa,Florida,"Cocoa Beach, Brevard  County",F,28,3' to 5' shark,siglo XXI,Injury to right ankle/calf & hand,01-Nov-2015,Nov,N,F,usa
+90,2015.10.25,2015.0,south africa,Western Cape Province,Stil Bay,M,42,"White shark, 3 to 3.5m ",siglo XXI,"Lacerations to right calf, knee & hip",25-Oct-2015,Oct,N,M,south africa
+91,2015.10.21,2015.0,usa,Florida,"Playalinda Beach, Brevard County",M,21,5' shark,siglo XXI,Lacerations to left hand,21-Oct-2015,Oct,N,M,usa
+92,2015.10.19,2015.0,usa,Florida,"Deerfield Beach, Broward County",M,21,"Spinner shark, 5'",siglo XXI,Left foot bitten,19-Oct-2015,Oct,N,M,usa
+93,2015.10.17.b,2015.0,usa,Hawaii,"Waikiki, ",M,32,No shark involvement,siglo XXI,Left foot bitten by eel,17-Oct-2015,Oct,Unknown,M,usa
+94,2015.10.17.a,2015.0,usa,Hawaii,"Lanikai Beach, Kailua, Oahu",M,44,"Tiger shark, 7'",siglo XXI,Severe injuries to lower legs. Foot later surgically amputated.,17-Oct-2015,Oct,N,M,usa
+95,2015.10.09.a,2015.0,usa,Hawaii,"Leftovers, Oahu",M,25,"Tiger shark, 13' ",siglo XXI,"Left leg severed below the knee, defense injuries to left hand",09-Oct-2015,Oct,N,M,usa
+96,2015.10.05.a,2015.0,usa,Texas,Galveston,M,13,4' to 5' shark,siglo XXI,Foot & hands bitten,05-Oct-2015,Oct,N,M,usa
+97,2015.10.04,2015.0,usa,Florida,"New Smyrna Beach, Volusia County",M,14,"Blacktip shark, 4' to 5'",siglo XXI,Severe lacerations to left hand,04-Oct-2015,Oct,N,M,usa
+98,2015.09.29,2015.0,usa,Florida,"Vilano Beach, St.  Johns County",M,22,"Blacktip shark, 5' to 6'",siglo XXI,"Laceration to heel, puncture wounds to dorsum of foot",29-Sep-2015,Sep,N,M,usa
+99,2015.09.20.d,2015.0,usa,Florida,"New Smyrna Beach, Volusia County",M,14,juvenile shark,siglo XXI,Minor injury to left ankle,20-Sep-2015,Sep,N,M,usa
+100,2015.09.20.c,2015.0,usa,Hawaii,"Upolu Point, North Kohala, Big Island",M,27,"Tiger shark, 13'",siglo XXI,Severe laceration to left leg,20-Sep-2015,Sep,N,M,usa
+101,2015.09.20.b,2015.0,usa,Florida,"Fernandina Beach, Amelia Island, Nassau County",M,12,4' shark,siglo XXI,Significant injuries to leg,20-Sep-2015,Sep,N,M,usa
+102,2015.09.08,2015.0,australia,New South Wales,North Shelly Beach,M,42,6' shark,siglo XXI,Minor laceration to hand,08-Sep-2015,Sep,N,M,australia
+103,2015.09.06,2015.0,usa,California,"El Pescador Beach, Los Angeles County",F,50,"White shark, 11' to 12'",siglo XXI,"No injury, shark struck board, tossing her into the sea",06-Sep-2015,Sep,N,F,usa
+104,2015.09.05,2015.0,usa,California,"Deer Creek Beach, Ventura County",M,29,Hammerhead shark.,siglo XXI,Laceration to dorsum of foot by hooked shark  PROVOKED INCIDENT,05-Sep-2015,Sep,N,M,usa
+105,2015.09.04,2015.0,australia,New South Wales,Hallidays Point,M,62,"White shark, 2.5 m",siglo XXI,Inuries to lower left leg & ankle,04-Sep-2015,Sep,N,M,australia
+106,2015.09.01,2015.0,thailand,Phuket,Karon Beach,F,37,small shark,siglo XXI,Left foot & ankle bitten,01-Sep-2015,Sep,N,F,thailand
+107,2015.08.29.b,2015.0,usa,California,"Morro Strand State Beach, San Luis Obispo County",F,54,"White shark, 11' to 12'",siglo XXI,"No injury, surfboard bitten",29-Aug-2015,Aug,N,F,usa
+108,2015.08.29.a,2015.0,usa,California,"Morro Bay, San Luis Obispo County",M,21,"White shark, 10' to 12' ",siglo XXI,"No injury, shark struk sufer's leg and his board",29-Aug-2015,Aug,N,M,usa
+109,2015.08.20,2015.0,usa,South Carolina,"Murrells Inlet, Georgetown County",M,15,4' shark,siglo XXI,"Injuries to left calf, arm and hand",20-Aug-2015,Aug,N,M,usa
+110,2015.08.19,2015.0,usa,Florida,"Jacksonville Beach, Duval County",F,10,3' shark,siglo XXI,Lacerations to right leg,19-Aug-2015,Aug,N,F,usa
+111,2015.08.18.b,2015.0,usa,California,Santa Barbara County,M,22,"White shark, 13'",siglo XXI,"No injury, kayak bitten",18-Aug-2015,Aug,N,M,usa
+112,2015.08.18.a,2015.0,spain,Alicante,"Poniente Beach, Benidorm",M,10,Shark involvement not confirmed,siglo XXI,Minor injury when he attempted to touch a fish. ,18-Aug-2015,Aug,Unknown,M,spain
+113,2015.08.10,2015.0,usa,California,Cortes Bank,M,57,Hammerhead shark. 6' to 7',siglo XXI,Right hand bitten  PROVOKED INCIDENT,10-Aug-2015,Aug,N,M,usa
+114,2015.07.31,2015.0,australia,New South Wales,Evans Head,M,52,White shark,siglo XXI,"Lacerations and puncture wounds to hip, thigh, arm and hand",31-Jul-2015,Jul,N,M,australia
+115,2015.07.26.b,2015.0,usa,Florida,"Daytona Beach, Volusia County",M,25,"Blacktip or spinner shark, 4'",siglo XXI,Minor injury to sole of foot,26-Jul-2015,Jul,N,M,usa
+116,2015.07.26.a,2015.0,usa,South Carolina,"Edisto Beach, Colleton County",F,35,"Thought to involve a 3' to 4' shark, but shark involvement not confirmed",siglo XXI,"2' cut to dorsum of foot, 2 puncture wounds to sole",26-Jul-2015,Jul,Unknown,F,usa
+117,2015.07.25,2015.0,australia,Tasmania,"Lachan Island, Mercury Passage",M,46,"White shark, 3.9 to 4.2 m",siglo XXI,FATAL,25-Jul-2015,Jul,Y,M,australia
+118,2015.07-10,2015.0,usa,California,"Huntington Beach, Orange County",M,38,"White shark, 7'",siglo XXI,"No injury, shark bumped & damaged board",10-Jul-2015,Jul,N,M,usa
+119,2015.07.03,2015.0,australia,New South Wales,Lennox Head,M,52,White shark,siglo XXI,"No injury, shark bit surfboard",03-Jul-2015,Jul,N,M,australia
+120,2015.07.02,2015.0,australia,New South Wales,East Ballina,M,32,White shark,siglo XXI,Significant injuries to lower legs,02-Jul-2015,Jul,N,M,australia
+121,2015.07.01,2015.0,usa,North Carolina,"Ocracoke, Lifeguard Beach, National Park Service, Hyde County",M,68,6' to 7' shark,siglo XXI,"Injuries to torso, hip, lower leg & hands",01-Jul-2015,Jul,N,M,usa
+122,2015.06.30.a,2015.0,usa,South Carolina,"Isle of Palms County Park, Isle of Palms, Charleston County",M,12,4' to 5' shark,siglo XXI,Shallow lacerations & puncture to lateral left leg,30-Jun-2015,Jun,N,M,usa
+123,2015.06.27.b,2015.0,usa,North Carolina,"Rodanthe, Dare County",M,18,Bull shark,siglo XXI,"Injuries to right calf, buttock and both hands",27-Jun-2015,Jun,N,M,usa
+124,2015.06.27.a,2015.0,south africa,Western Cape Province,Buffels Bay near Knysna,M,19,White shark,siglo XXI,"Right leg severed, multiple lacerations to left leg",27-Jun-2015,Jun,N,M,south africa
+125,2015.06.26.b,2015.0,south africa,Western Cape Province,"Lookout Beach, Plettenberg Bay",M,23,"White shark, 2m to 3 m",siglo XXI,Multiple lacerations to torso & leg,26-Jun-2015,Jun,N,M,south africa
+126,2015.06.26.a,2015.0,usa,South Carolina,"South Beach, Hunting Island State Park, Beaufort County",M,43,4' shark,siglo XXI,Puncture wounds to foot,26-Jun-2015,Jun,N,M,usa
+127,2015.06.24.b,2015.0,usa,North Carolina,Surf City,M,6,Sandtiger shark,siglo XXI,Minor injury to foot,24-Jun-2015,Jun,N,M,usa
+128,2015.06.24.a,2015.0,australia,Western Australia,Denmark,F,37,White shark,siglo XXI,"Bruises and abrasions to face, chin, chest, both shins & feet and cut to right hand when her surfboard was struck with force",24-Jun-2015,Jun,N,F,australia
+129,2015.06.14.b,2015.0,usa,North Carolina,"Oak Island, Brunswick County",M,16,Bull shark,siglo XXI,Arm amputated below shoulder,14-Jun-2015,Jun,N,M,usa
+130,2015.06.14.a,2015.0,usa,North Carolina,"Oak Island, Brunswick County",F,12,Bull shark,siglo XXI,Left arm amputated at elbow & severe injury to leg,14-Jun-2015,Jun,N,F,usa
+131,2015.06.11,2015.0,usa,North Carolina,"Ocean Isle, Brunswick County",F,13,4' shark,siglo XXI,Minor lacerations to foot,11-Jun-2015,Jun,N,F,usa
+132,2015.06.07,2015.0,usa,Florida,"Lori Wilson Park, Cocoa Beach, Brevard  County",M,11,"Bull shark, 5'",siglo XXI,Lacerations to right calf,07-Jun-2015,Jun,N,M,usa
+133,2015.06.01,2015.0,reunion,Le Port,Folette,M,47,"Bull shark, 2.5 m",siglo XXI,Left forearm bitten,01-Jun-2015,Jun,N,M,reunion
+134,2015.05.25,2015.0,french polynesia,Rangiroa,Avatoru Pass,M,19,1m to 1.2 m shark,siglo XXI,Lacerations to right forearm,25-May-2015,May,N,M,french polynesia
+135,2015.05.20,2015.0,usa,Florida,"New Smyrna Beach, Volusia County",M,18,5' shark,siglo XXI,2 puncture wounds to  dorsum of left foot,20-May2015,,N,M,usa
+136,2015.05.02,2015.0,south africa,Eastern Cape Province,Port St. John's,M,29,"White shark, 3.5 m",siglo XXI,"Injuries to leg, left arm & both hands",02-May-2015,May,N,M,south africa
+137,2015.04.26,2015.0,usa,Florida,"Resident's Beach, Marco Island",M,63,3- to 4-foot shark,siglo XXI,Lacerations to left calf,26-Apr-2015,Apr,N,M,usa
+138,2015.04.25,2015.0,australia,South Australia,Fishery Bay,M,26,"White shark, 6 m",siglo XXI,Leg severed at mid-thigh,25-Apr-2015,Apr,N,M,australia
+139,2015.04.24.c,2015.0,australia,New South Wales,"Belongil Beach, Byron Bay",M,71,"White shark, 3 m",siglo XXI,"No injury, knocked off ski",24-Jun-2015,Jun,N,M,australia
+140,2015.04.12,2015.0,reunion,Saint-Gilles-les-Bains,Cap Homard,M,13,Bull shark,siglo XXI,FATAL,12-Apr-2015,Apr,Y,M,reunion
+141,2015.04.03,2015.0,usa,Florida,"3 miles off Jupiter, Palm Beach County",M,70,Bull shark,siglo XXI,Injuries to head & torso,03-Apr-2015,Apr,N,M,usa
+142,2015.03.31,2015.0,brazil,Pernambuco,"Praia del Chifre, Olinda",M,23,No shark involvement,siglo XXI,Injury to left thigh from unidentified species of fish; injuries inconsistent with shark bite,31-Mar-2015,Mar,Unknown,M,brazil
+143,2015.03.18,2015.0,usa,Hawaii,Hapuna Beach,M,58,"Tiger shark, 8 to 12 feet",siglo XXI,Lacerations to left forearm. Lacerations to left hand and thigh,18-Mar-2015,Mar,N,M,usa
+144,2015.03.16,2015.0,french polynesia,Bora Bora,Anau,M,9,Blacktip shark,siglo XXI,Hand bitten,16-Mar-2015,Mar,N,M,french polynesia
+145,2015.02.14,2015.0,reunion,dÉtang-Salé,Ravine Mula,F,22,"Tiger shark, 3.5 m",siglo XXI,FATAL,14-Feb-2015,Feb,Y,F,reunion
+146,2015.02.09,2015.0,australia,New South Wales,Shelly Beach,M,41,3.5 to 4 m shark,siglo XXI,FATAL,09-Feb-2015,Feb,Y,M,australia
+147,2015.02.08,2015.0,australia,New South Wales,"Seven Mile Beach, Byron Bay",M,35,2 m to  3 m shark,siglo XXI,Laceration & puncture wounds to right flank & hip,08-Feb-2015,Feb,N,M,australia
+148,2015.01.30,2015.0,australia,Queensland,"Nerang River, Surfer's  Paradise",M,57,"Bull shark, 1.3 m",siglo XXI,"No injury, shark's teeth scratched hull",30-Jan-2015,Jan,N,M,australia
+149,2015.01.27,2015.0,usa,Hawaii,Lahaina,M,20,4' shark,siglo XXI,Lacerations to calf by hooked shark PROVOKED INCIDENT,27-Jan-2015,Jan,N,M,usa
+150,2015.01.06,2015.0,bahamas,Abaco Islands,"Tahiti Beach, Elbow Cay",F,34,White shark or oceanic whitetip shark,siglo XXI,Severe bite to right flank,06-Jan-2015,Jan,N,F,bahamas
+151,2015.01.03,2015.0,south africa,Eastern Cape Province,Chintsa East Beach,M,15,"Raggedtooth shark, 1.3 m",siglo XXI,"Lacerations to lower left leg, puncture wounds to sole of left foot",03-Jan-2015,Jan,N,M,south africa
+152,2014.12.29.a,2014.0,australia,Western Australia,Three Stripes near Cheynes Beach,M,17,"White shark, 4 to 5 m",siglo XXI,FATAL,29-Dec-2014,Dec,Y,M,australia
+153,2014.12.28.b,2014.0,usa,California,"Montaña de Oro State Park, San Luis Obispo County ",M,50,"White shark, 8' to 10'",siglo XXI,Injury to hip/leg,28-Dec-2014,Dec,N,M,usa
+154,2014.12.28.a,2014.0,australia,Victoria,Paradise Beach,M,40s,1.5 m shark,siglo XXI,Laceration to calf when he fell on shark he had caught PROVOKED INCIDENT,28-Dec-2014,Dec,N,M,australia
+155,2014.12.15,2014.0,australia,Queensland,Rudder Reef,M,17,Tiger shark,siglo XXI,FATAL,15-Dec-2014,Dec,Y,M,australia
+156,2014.11.16,2014.0,usa,Florida,"Indian Harbor Beach, Brevard County",M,44,2' shark,siglo XXI,Laceration to left hand,16-Nov-2014,Nov,N,M,usa
+157,2014.11.13,2014.0,usa,Hawaii,"Airplane Beach, Lahina, West Maui",M,53,1.5 m shark,siglo XXI,Laceration to left upper leg,13-Nov-2014,Nov,N,M,usa
+158,2014.10.31,2014.0,usa,Hawaii,"North Kohala, Hawaii County",F,34,"Tiger shark, 12'",siglo XXI,Lacerations to fingers,31-Oct-2014,Oct,N,F,usa
+159,2014.10.17,2014.0,australia,New South Wales,Avoca Beach,F,13,1 m shark,siglo XXI,"Lacerations to left calf & ankle, puncture wounds to left foot",17-Oct-2014,Oct,N,F,australia
+160,2014.10.05.b,2014.0,usa,Florida,"New Smyrna Beach, Volusia County",M,29,Blacktip shark,siglo XXI,Foot bitten,05-Oct-2014,Oct,N,M,usa
+161,2014.10.05.a,2014.0,usa,Florida,"New Smyrna Beach, Volusia County",M,15,Blacktip shark,siglo XXI,Foot bitten,05-Oct-2014,Oct,N,M,usa
+162,2014.10.02.b,2014.0,usa,California,"Walls Beach, Vandenberg AFB, Santa Barbara County",M,28,8' to 10' shark,siglo XXI,Lacerations to knee,02-Oct-2014,Oct,N,M,usa
+163,2014.10.02.a,2014.0,australia,Western Australia,"Kelpids Beach, Wylie Bay, Esperance",M,23,"2 white shark: 13' & 9""8""",siglo XXI,"Left arm & right hand severed, lacerations to both legs",02-Oct-2014,Oct,N,M,australia
+164,2014.09.09,2014.0,australia,New South Wales,"Clarkes Beach, Byron Bay",M,50,7' shark,siglo XXI,FATAL,09-Sep-2014,Sep,Y,M,australia
+165,2014.09.06,2014.0,usa,Alabama,"Katrina Cut, Dauphin Island, Mobile County",M,43,Bull shark,siglo XXI,Leg bitten,06-Sep-2014,Sep,N,M,usa
+166,2014.09.03,2014.0,usa,Massachusetts,"Manomet Point, Plymouth, Plymouth County",F,20s,"White shark, 12' to 14'",siglo XXI,"No injury, shark bit kayak",03-Sep-2014,Sep,N,F,usa
+167,2014.09.02,2014.0,usa,Florida,"Fletcher Beach, Hutchinson Island, Martin County",M,52,3' to 4' shark,siglo XXI,Bitten twice on the leg by a shark he was attempting to free from his line PROVOKED INCIDENT,02-Sep-2014,Sep,N,M,usa
+168,2014.08.31,2014.0,usa,Florida,"New Smyrna Beach, Volusia County",F,13,Spinner shark,siglo XXI,Injury to left calf,31-Aug-2014,Aug,N,F,usa
+169,2014.08.08,2014.0,usa,Louisiana,"Lake Ponchartain off Southshore Harbor, New Orleans",M,7," Bull shark, 5'",siglo XXI,Minor lacerations to left heel and big toe,08-Aug-2014,Aug,N,M,usa
+170,2014.08.06,2014.0,usa,South Carolina,"Folly Beach, Charleston County",M,10,4' tp 5' shark,siglo XXI,Lacerations to right leg & foot,06-Aug-2014,Aug,N,M,usa
