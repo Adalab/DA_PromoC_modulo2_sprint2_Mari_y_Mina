@@ -1,13 +1,11 @@
-# Mari_y_Mina
+# Repositorio de Mari y Mina.
 
-# DA-PromoC-modulo2-sprint1-VannaMina
+En este repositorio podremos encontrar los ejercicios de pair programing realizados por Mari Ferreras y Mina Rodríguez durante el cuarto sprint del bootcamp de Data Analist Promoción C de Adalab bajo la metodología de SCRUM, de la filosofía AGILE.
 
-En este repositorio podremos encontrar los ejercicios de pair programing realizados bajo la metodología de SCRUM, de la filosofía AGILE. Están realizados por Marina Ferreras y Mina Rodríguez durante el cuarto sprint del bootcamp de Data Analist promo c de Adalab.
-
-La realización de estos ejercicios ha sido en lenguaje Python. Y las herramientas que hemos utilizado han sido VSCode.
+La realización de estos ejercicios ha sido en lenguaje Python, y las herramientas que hemos utilizado han sido las Jupyter Notebooks en VSCode y MySQL Workbench.
 
 
-En estos ejercicios podemos encontrar las bibliotecas:
+### - Librerías:
 
 Numpy
 Scipy
@@ -23,19 +21,18 @@ Matplotlib
 Seaborn
 
 
-Encontraremos 3 carpetas:
+### - Carpetas:
 
-EDA:
+- EDA:
 
 Donde veremos exploración y analisis de datos en base a un dataset con información global sobre ataques de tiburones.
 
-ETL:
+- ETL:
 
 Donde extraeremos datos meteorologicos de una API y los guardaremos en una BBDD en SQL a través de Python.
 
-LIMPIEZA:
+- LIMPIEZA:
 
-Dentro de esta carpeta encontraremos varios archivos donde después de una exploración previa a un dataframe sobre ataques haremos limpieza de datos, gestión de nulos y outliers con 
-usos de librerías de machine learning (Sklearn)
+Dentro de esta carpeta encontraremos varios archivos donde después de una exploración previa a un dataframe sobre ataques haremos limpieza de datos, gestión de nulos y outliers con usos de librerías de machine learning (Sklearn)
 
 Dentro de cada una de esas carpetas también encontraremos una carpeta llamada "datos" donde están guardados todos los csv y archivos necesarios y resultantes de las exploraciones y limpiezas de datos.
